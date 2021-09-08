@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Strawberry Very Much Frappuccino - Red (Copy Cat Recipe)"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/strawberry/20210906_173918.jpg
@@ -8,20 +8,27 @@ featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+More than likely, you haven’t heard of this. It was only available at Starbucks in Japan for one month in 2019. I found it my first day of that trip and had at least one every day (I was there for 10 days). I tried the white once but then went back to the red. When I left Japan, I knew I would have to figure out how to make it at home. I tried and I was liking the results except I only had a Magic Bullet to work with and it would leave large chunks of ice. After getting a Vitamix and finally getting over my fear of it, I had to look into this again. Check out [this post](2021_10_19_StrawberrySauceBattle.md) where I experimented with variations. 
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+Strawberry Sauce
+- Strawberries - hulled and diced
+- Sugar
+- Vanilla
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+Frappuccino Mix
+- Strawberry sauce
+- Ice
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+Toppings
+- Whipped cream
+- Freeze dried strawberries - crushed
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+To make the strawberry sauce, place all ingredients in sauce pan and cook until strawberries are soft and sauce is thickened. (or follow any strawberry sauce recipe you like).
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+Assembly:
 
-#### So how do we do spoilers?
+1. Drop a dollup of whipped cream and strawberry sauce in a clear cup to decorate the sides.
 
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+2. Blend frappuccino mix and pour into the cup.
+
+3. Top with more whipped cream and crushed freeze dried strawberries or just more strawberry sauce.
