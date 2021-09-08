@@ -3,7 +3,7 @@ layout: post
 title:  "Let's test spoilers"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/strawberry/20210906_173918.jpg
 featured: true
 hidden: true
 ---
