@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Strawberry Very Much Frappuccino - Red (Copy Cat Recipe)"
-author: sal
+author: courtney
 categories: [ Jekyll, tutorial ]
 image: assets/images/strawberry/20210906_173918.jpg
 featured: true
