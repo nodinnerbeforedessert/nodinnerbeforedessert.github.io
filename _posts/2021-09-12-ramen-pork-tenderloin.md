@@ -4,7 +4,7 @@ title:  "Ramen Pork Tenderloin"
 author: courtney
 categories: [ Dinner ]
 image: assets/images/2.jpg
-rating: 3
+# rating: 3
 ---
 Pork Tenderloin
 Chicken Boullion
