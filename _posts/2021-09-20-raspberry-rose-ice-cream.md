@@ -3,12 +3,7 @@ layout: post
 title:  "Raspberry Rose Ice Cream"
 author: courtney
 categories: [ Dessert ]
-tags: [red, yellow]
 image: assets/images/strawberry/20210906_180634.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
-hidden: true
-rating: 4.5
 ---
 
 Haagan Daz came out with a version of this ice cream while I was in Hong Kong I saw billboards and such, but I have no idea if it was available anywhere else. I haven’t seen it since or even online. Sadly I didn’t get a chance to try it while I was there either but I did try rose ice cream in Japan and I love raspberries so I had to give it a try. 
