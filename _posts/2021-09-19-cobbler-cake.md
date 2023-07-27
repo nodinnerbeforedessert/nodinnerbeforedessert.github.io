@@ -20,8 +20,8 @@ I had a delicious Peach Cobbler at a girls’ camp and had to get the recipe. Th
 + 220 g = 1 1/2 C flour (or gluten free flour)
 + 150 g sugar
 
-   1/4 C Brown sugar
-   3 TBSP Butter
+   1/4 C Brown sugar  
+   3 TBSP Butter  
 
 1. Cut up peaches, peel if desired. Dump 4 peaches worth into pan.
 2. Put the other 2 plus the water into a blender and blend til there are no chunks. Run through a fine mesh strainer, stir in the vanilla and cinnamon and then mix into the peaches in the pan.
