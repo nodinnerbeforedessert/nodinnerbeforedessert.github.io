@@ -32,7 +32,7 @@ Even with taking them around to lots of people to test and vote, I would have ne
 
 This was my first time making stuffed peppers and in classic me style I didn’t read the recipe so I had to improvise on the whole cooking them in the crock pot part. I found instructions from another recipe to bake them. I also decided to use some of the strained off tomato juice from the salsa recipes to make my own Spanish rice for these!
 
-[Salsa chicken](https://diethood.com/easy-baked-salsa-chicken/)  
+[Salsa chicken](https://thecozycook.com/salsa-chicken)  
 
 This was my first time trying a salsa chicken. I thought it was good but I had to eat the leftovers so my husband maybe didn’t care for it...?
 
