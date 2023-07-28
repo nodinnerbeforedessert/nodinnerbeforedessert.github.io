@@ -3,7 +3,6 @@ layout: post
 title:  "Sister Cooking 2"
 author: courtney
 categories: [ Sister Cooking ]
-image: assets/images/15.jpg
 ---
 This time three sisters came and we made breakfast too. It was a long but delicious day:
 
@@ -20,6 +19,6 @@ Panna cotta
 ![alt text](../../assets/images/acaibowl.png "Acai Bowl")
 ![alt text](../../assets/images/soba.png "Cold Soba")
 ![alt text](../../assets/images/tempura.png "Tempura")
-![alt text](../../assets/images/sushi.png "Sushi")
-![alt text](../../assets/images/porkbuns.png "BBQ Pork Buns + Cream Cheese Wontons")
+![alt text](../../assets/images/sushi.jpeg "Sushi")
+![alt text](../../assets/images/porkbun.png "BBQ Pork Buns + Cream Cheese Wontons")
 ![alt text](../../assets/images/pannacotta.png "Panna Cotta")
