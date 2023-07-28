@@ -13,7 +13,7 @@ Dash of cinnamon
 1/2 tsp vanilla  
 1/4 C Brown sugar  
 3 TBSP Butter  
-1/3 Cake Mix ([Recipe Here](2023-07-26-homemade-cake-mix.md))
+1/3 Cake Mix ([Recipe Here](./2023-07-26-homemade-cake-mix.md))
 
 Cut up peaches, peel if desired. Dump 4 peaches worth into pan.  
 Put the other 2 plus the water into a blender and blend til there are no chunks. Run through a fine mesh strainer, stir in the vanilla and cinnamon and then mix into the peaches in the pan.  
