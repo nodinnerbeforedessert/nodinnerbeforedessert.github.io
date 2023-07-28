@@ -3,7 +3,6 @@ layout: post
 title:  "Homemade Cake Mix"
 author: courtney
 categories: [ Dessert ]
-image: assets/images/15.jpg
 ---
 Just for the fun of it, I read the back of a cake mix box and tried to put a mix together. This came in handy when celiac entered my life and I could use gluten free flour. This mix is great for cake but also anywhere a cake mix is used - like this [Peach Cobbler](../peach-cobbler). 
 
