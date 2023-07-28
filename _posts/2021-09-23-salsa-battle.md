@@ -12,7 +12,7 @@ I tried four salsa recipes and made a few alterations to them for a total of sev
 [Cooking Classy](https://www.cookingclassy.com/fresh-homemade-salsa/) -cumin sugar->honey  
 [Slow Roasted Italian](https://www.theslowroasteditalian.com/lazy-day-salsa/)  
 [Spending with Pennies](https://www.spendwithpennies.com/homemade-salsa-restaurant-style/)  
-[Chunky Chef](https://www.thechunkychef.com/restaurant-salsa/#wprm-recipe-container-8463) (though I might have skipped the cumin)
+[Chunky Chef](https://www.thechunkychef.com/restaurant-salsa/#wprm-recipe-container-8463) -cumin
 
 Alterations:
 Slow Roasted Italian: -cilantro, Fire Roasted -> Plain Diced  
