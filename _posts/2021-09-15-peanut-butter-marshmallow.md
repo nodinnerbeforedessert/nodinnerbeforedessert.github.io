@@ -12,5 +12,5 @@ Peanut Butter (whatever kind you like)
 Marshmallows (preferably mini)  
 
 Preheat the broiler. This is the best way to not forget them. When it takes too long to toast the marshmallows is when they burn!  
-Spread peanut butter on the bread slices as for a sandwich. Top with as many marshmallows as will fit - tear large marshmallows in half - then slide into the broiler.  
-Watch closely til the marshmallows turn golden on top.
+Spread peanut butter on the bread slices as for a sandwich. Top with as many marshmallows as will fit - tear large marshmallows in half - then slide into the broiler. Watch closely til the marshmallows turn golden on top.  
+When I'm feeling impatient, I use a butane torch to toast the marshmellows but the oven/broiler method is nice since the whole sandwich will get warmer that way.  

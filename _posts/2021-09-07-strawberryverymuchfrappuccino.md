@@ -3,7 +3,7 @@ layout: post
 title:  "Strawberry Very Much Frappuccino - Red (Copy Cat Recipe)"
 author: courtney
 categories: [ Dessert ]
-image: assets/images/strawberry/strawberryverymuchfrappucino.png
+image: assets/images/strawberryverymuchfrappucino.png
 featured: true
 hidden: true
 ---
