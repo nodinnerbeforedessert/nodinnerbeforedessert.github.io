@@ -3,7 +3,6 @@ layout: post
 title:  "Celiac Disease"
 author: courtney
 categories: [ Life ]
-image: assets/images/15.jpg
 ---
 
 Hello world! 
