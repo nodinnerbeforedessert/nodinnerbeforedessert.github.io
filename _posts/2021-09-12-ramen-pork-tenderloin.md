@@ -6,9 +6,9 @@ categories: [ Dinner ]
 image: assets/images/porktenderloin.jpeg
 # rating: 3
 ---
-Pork Tenderloin
-Chicken Boullion (enough to cover tenderloin)
-1 TBSP Honey
+Pork Tenderloin  
+Chicken Boullion (enough to cover tenderloin)  
+1 TBSP Honey  
 3 TBSP Soy Sauce
 
 Pat Pork Tenderloin dry with paper towel. Crush chicken boullion into powder with a mortar and pestle. Rub boullion powder all over the tenderloin. 

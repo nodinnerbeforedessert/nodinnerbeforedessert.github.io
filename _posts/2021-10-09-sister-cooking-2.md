@@ -3,6 +3,7 @@ layout: post
 title:  "Sister Cooking 2"
 author: courtney
 categories: [ Sister Cooking ]
+image: assets/images/acaibowl.png
 ---
 This time three sisters came and we made breakfast too. It was a long but delicious day:
 
@@ -16,7 +17,6 @@ Cream cheese wontons
 Bbq pork buns [this one](https://www.allrecipes.com/recipe/7011/chinese-steam-buns) or [this one for the dough](https://wwww.foodnetwork.con/recipes/brian-boitano/pork-steam-buns-recipe-2124371) and [this one for the filling](https://www.allrecipes.com/recipe/7032/chinese-steam-buns-with-bbq-pork-filling/ppl)  
 Panna cotta  
 
-![alt text](../../assets/images/acaibowl.png "Acai Bowl")
 ![alt text](../../assets/images/soba.png "Cold Soba")
 ![alt text](../../assets/images/tempura.jpeg "Tempura")
 ![alt text](../../assets/images/sushi.jpeg "Sushi")
