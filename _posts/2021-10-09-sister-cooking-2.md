@@ -18,7 +18,7 @@ Panna cotta
 
 ![alt text](../../assets/images/acaibowl.png "Acai Bowl")
 ![alt text](../../assets/images/soba.png "Cold Soba")
-![alt text](../../assets/images/tempura.png "Tempura")
+![alt text](../../assets/images/tempura.jpeg "Tempura")
 ![alt text](../../assets/images/sushi.jpeg "Sushi")
 ![alt text](../../assets/images/porkbun.png "BBQ Pork Buns + Cream Cheese Wontons")
 ![alt text](../../assets/images/pannacotta.png "Panna Cotta")
