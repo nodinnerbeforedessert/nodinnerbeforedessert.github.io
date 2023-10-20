@@ -15,6 +15,7 @@ Turkey or Chicken
 Turkey Gravy  
 Bouillion (optional - if needed or desired for more flavor)  
 Chicken Stock (optional - if needed)  
+1 TBSP evaporated milk (optional)
 
 Bread Crumbs (panko)  
 Butter or olive oil  
