@@ -9,18 +9,18 @@ image: assets/images/redcurrants.png
 I'd had red currants only one time ever so when a co-worker told me that a farmer's market had red currants, I was so excited. It turned out that she got them on the last day of their season so I had to wait another year but I was finally successful in procuring a box of red currants. I spent about five hours destemming and sorting the currants - some for eating, some for freezing, some for jam (the less pretty ones). I did find a few bugs and a little spider so you'll want to look through them!  That time I had red currants was in Norway and they were served with other fruit (like a fruit salad) with a vanilla sauce on top (red currants are quite tart so having sweeter fruit and sauce to accompany them is nice.)
 
 What you'll need:  
-Other fruit: I recommend peaches or nectarines and strawberries. 
-Red currants (of course)  
-Vanilla Sauce  
+Other fruit: I recommend peaches or nectarines and strawberries.<br>
+Red currants (of course)<br>
+Vanilla Sauce<br>
 
 You may want to start with the vanilla sauce so it has time to cool depending on your schedule.
 
-Vanilla Sauce:  
-1 egg  
-1/4 C sugar  
-1 tsp corn starch  
-1 C milk  
-1 tsp vanilla  
+Vanilla Sauce:<br>
+1 egg<br>
+1/4 C sugar<br>
+1 tsp corn starch<br>
+1 C milk<br>
+1 tsp vanilla<br>
 
 Beat the egg in a small or medium pan. Add the sugar and corn starch and whisk until smooth. Gradually add in the milk. 
 Heat on medium, whisking constantly, until it thickens slightly and reaches ~190 degrees F. Lower heat to avoid boiling and continue to cook until desired thickness. 3-5 more minutes gives a good consistency for me. Pour through a fine mesh strainer into a bowl, stir in the vanilla and allow to cool in the fridge or over ice.

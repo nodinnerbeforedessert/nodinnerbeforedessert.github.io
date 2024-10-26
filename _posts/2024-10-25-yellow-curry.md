@@ -6,26 +6,16 @@ categories: [ Dinner ]
 image: assets/images/yellowcurry.jpg
 ---
 
-1/4 c coconut oil
-
-100 g yellow curry paste
-
-1 can coconut cream
-
-1 can coconut milk
-
-1 can chicken stock
-
-1/2 gallon 1.5" cube-ish potatoes
-
-1 medium onion
-
-1 bell pepper
-
-1 can bamboo (optional)
-
-1 "Costco pack" chicken breast or tenders
-
+1/4 c coconut oil<br>
+100 g yellow curry paste<br>
+1 can coconut cream<br>
+1 can coconut milk<br>
+1 can chicken stock<br>
+1/2 gallon 1.5" cube-ish potatoes<br>
+1 medium onion<br>
+1 bell pepper<br>
+1 can bamboo (optional)<br>
+1 "Costco pack" chicken breast or tenders<br>
 
 Prep:
 
@@ -37,7 +27,6 @@ Bell pepper: remove stem, cut in half "vertically" remove pithy stuff and seeds.
 Bamboo: Drain. Slice each piece long ways into 3 or 4 small sticks.
 
 Chicken: cut each breast or tender into 1/8 inch slices, perpendicular to the meat grain.
-
 
 
 Cooking instructions:

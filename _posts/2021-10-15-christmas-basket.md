@@ -7,15 +7,15 @@ image: assets/images/breadbasket.png
 ---
 For the last few years, I have tried to make homemade gifts for Christmas. Previous years were soap and bath bombs in 2018, and crocheted hats in 2019. I knew from the previous year that I should get started early so in August 2020 I decided that I wanted to make jam of various kinds to give out as gifts for that coming Christmas. My husband and I had been to Hawaii the previous year and we were in love with pineapple jam so I thought we could share. I googled what other fruit would be in season in the coming months, and decided the flavors and got to work. I had to clear out a whole shelf in my freezer to fit them all since I wasn't canning them. I've linked the recipes I still have saved.  
 
-Jam Flavors:  
-[Peach (13)](https//www.thekitchn.com/how-to-make-freezer-peach-jam-246302)  
-Pomegranate (12)  
-[Marmalade (orange)(17)](https//www.culinaryhill.com/orange-marmalade-recipe/)  
-[Pineapple (16)](https//kitchendreaming.com/pineapple-jam)  
-Blackberry/Raspberry (8)  
-Jalapeno Berry (4)  
-Habanero Berry (4)  
-Also a few jars of Raspberry/Blackberry Syrup, which could double as a thin jam. (5)  
+Jam Flavors:<br>
+[Peach (13)](https//www.thekitchn.com/how-to-make-freezer-peach-jam-246302)<br>
+Pomegranate (12)<br>
+[Marmalade (orange)(17)](https//www.culinaryhill.com/orange-marmalade-recipe/)<br>
+[Pineapple (16)](https//kitchendreaming.com/pineapple-jam)<br>
+Blackberry/Raspberry (8)<br>
+Jalapeno Berry (4)<br>
+Habanero Berry (4)<br>
+Also a few jars of Raspberry/Blackberry Syrup, which could double as a thin jam. (5)<br>
 
 For a total of 79 half-cup jars.
 

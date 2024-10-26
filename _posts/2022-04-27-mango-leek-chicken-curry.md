@@ -11,12 +11,12 @@ I remembered a handful of the ingredients. There are the obvious: leek, mango, c
 
 So following [a recipe from Chowhound](https://www.chowhound.com/recipes/chicken-curry-mango-30176) (which doesn't seem to work while I'm writing this) as a base I put it together as follows:
 
-1.5 - 2 lb Chicken  
-1 Leek  
-1 Red bell pepper  
-1 can Coconut milk  
-1-3 TBSP Red Curry Paste  
-1/2 C Mango chutney  
+1.5 - 2 lb Chicken<br>
+1 Leek<br>
+1 Red bell pepper<br>
+1 can Coconut milk<br>
+1-3 TBSP Red Curry Paste<br>
+1/2 C Mango chutney<br>
 
 Make the chutney the day before if possible.  
 Cut the chicken into bite sized pieces.  
