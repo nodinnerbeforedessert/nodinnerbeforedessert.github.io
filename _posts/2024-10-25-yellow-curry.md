@@ -7,16 +7,23 @@ image: assets/images/yellowcurry.jpg
 ---
 
 1/4 c coconut oil
+
 100 g yellow curry paste
 
 1 can coconut cream
+
 1 can coconut milk
+
 1 can chicken stock
 
 1/2 gallon 1.5" cube-ish potatoes
+
 1 medium onion
+
 1 bell pepper
+
 1 can bamboo (optional)
+
 1 "Costco pack" chicken breast or tenders
 
 
