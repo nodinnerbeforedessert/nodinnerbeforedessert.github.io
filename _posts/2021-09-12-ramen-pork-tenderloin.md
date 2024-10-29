@@ -15,6 +15,6 @@ Pat Pork Tenderloin dry with paper towel. Crush chicken boullion into powder wit
 
 Heat a pan over medium high heat. Add honey and soy sauce to pan. Once boiling, put the tenderloin in the pan and “sear” on all sides.
 
-Transfer tenderloin to a baking sheet with silicone mat, bake til done (at 350 for 20 mins)
+Transfer tenderloin to a baking sheet with silicone mat, bake til done (at 350 for 40-60 mins)
 
 Serve in ramen or on rice.
