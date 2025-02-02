@@ -36,7 +36,7 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 
 [Chocolate Pie](https://www.hersheyland.com/recipes/easy-hersheys-bar-pie.html)<br>
 [Chocolate Frosting](https://www.hersheyland.com/recipes/perfectly-chocolate-chocolate-frosting.html)<br>
-[Hershey's Ultimate Chocolate Brownies](https://www.hersheyland.me/en_me/recipes/hersheys-ultimate-chocolate-brownies.html) - these were really yummy.<br>
+[Hershey's Ultimate Chocolate Brownies](https://www.hersheyland.me/en_me/recipes/hersheys-ultimate-chocolate-brownies.html)<br>
 
 [Construction Gingerbread](https://sugargeekshow.com/news/gingerbread-house-recipe/) - worked great for my gingerbread house. <br>
 
@@ -73,6 +73,7 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 [Cheesecake Bomb](https://www.eatwell101.com/cheesecake-keto-fat-bombs-recipe)<br>
 [Keto Chocolate PB Bar](https://ketogenicwoman.com/keto-chocolate-peanut-butter-dessert-bars/)<br>
 
+[Magic Bars](https://www.urbanbakes.com/magic-bars/) worked well with these as the [graham crackers](https://www.powerhungry.com/2015/01/29/almond-flour-graham-crackers/)
 
 **Fudge**
 [Mint Fudge](https://www.thedailymeal.com/recipes/mint-chocolate-chip-fudge-recipe)<br>
