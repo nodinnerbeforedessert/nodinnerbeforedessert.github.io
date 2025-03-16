@@ -75,7 +75,12 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 
 [Magic Bars](https://www.urbanbakes.com/magic-bars/) worked well with these as the [graham crackers](https://www.powerhungry.com/2015/01/29/almond-flour-graham-crackers/)
 
+[Caramel Brownies](https://preppykitchen.com/caramel-brownies/)
+[Chocolate Caramel Bars](https://www.majhofftakesawife.com/coffee-house-double-mocha-caramel-bars/) - these were super good. They came out wrong the first time but were still a hit.
+
 **Fudge**
 [Mint Fudge](https://www.thedailymeal.com/recipes/mint-chocolate-chip-fudge-recipe)<br>
 [Polish Cream](http://polishhousewife.com/polish-cream-fudge/)<br>
 [PB Rocky Road Fudge](https://www.momontimeout.com/peanut-butter-rocky-road-fudge/)<br>
+
+
