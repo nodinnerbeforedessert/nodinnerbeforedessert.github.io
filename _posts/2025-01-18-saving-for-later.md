@@ -77,6 +77,7 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 
 [Caramel Brownies](https://preppykitchen.com/caramel-brownies/)
 [Chocolate Caramel Bars](https://www.majhofftakesawife.com/coffee-house-double-mocha-caramel-bars/) - these were super good. They came out wrong the first time but were still a hit.
+[Carmelitas](https://www.thepioneerwoman.com/food-cookinig/recipes/a61100202/carmelitas-recipe/) - these are good but don't cook as long as it says: they got too crispy. 
 
 **Fudge**
 [Mint Fudge](https://www.thedailymeal.com/recipes/mint-chocolate-chip-fudge-recipe)<br>
