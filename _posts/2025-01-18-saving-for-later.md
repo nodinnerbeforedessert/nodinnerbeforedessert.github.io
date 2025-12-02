@@ -44,6 +44,20 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 [Almond Bundt Cake](https://www.plainchicken.com/amaretto-cake) - this was really good.<br>
 
 [Pumpkin Cookies](https://wwww.sugarandsoul.com/4-ingredient-pumpkin-chocolate-chip-cookies) - these came out amazing with my homemade cake mix turned gluten free.<br>
+DEC 2025 UPDATE<br>
+I have since started making them with:<br>
+15 oz pumpkin<br>
+1/4 C oil<br>
+1 egg<br> 
+1 box King Arthur Gluten Free Yellow Cake mix<br>
+1 1/2 tsp cinnamon<br>
+1 tsp ginger<br>
+1/2 tsp cloves<br>
+1/2 tsp nutmeg<br>
+~1 C chocolate chips<br>
+350 degrees for 15 minutes <br>
+These seriously stick to the pan so I decided to just use parchment paper and after baking move the parchment paper with cookies still on it to the counter to make the next batch. Then peel the cookies off once they've cooled. They also go weirdly soggy - so it's best to leave them in the open air for a few hours before serving time or just always. <br>
+
 [Pumpkin Pie Bars](https://www.ifyougiveablondeakitchen.com/easy-pumpkin-pie-bars/) - these were good but not as popular.<br>
 
 [Coffee Cake](https://www.kingarthurbaking.com/recipes/cinnamon-streusel-coffee-cake-recipe)<br>
@@ -73,10 +87,10 @@ I have too many tabs open on my phone so I'm just going to dump the food ones he
 [Cheesecake Bomb](https://www.eatwell101.com/cheesecake-keto-fat-bombs-recipe)<br>
 [Keto Chocolate PB Bar](https://ketogenicwoman.com/keto-chocolate-peanut-butter-dessert-bars/)<br>
 
-[Magic Bars](https://www.urbanbakes.com/magic-bars/) worked well with these as the [graham crackers](https://www.powerhungry.com/2015/01/29/almond-flour-graham-crackers/)
+[Magic Bars](https://www.urbanbakes.com/magic-bars/) worked well with these as the [graham crackers](https://www.powerhungry.com/2015/01/29/almond-flour-graham-crackers/)<br>
 
-[Caramel Brownies](https://preppykitchen.com/caramel-brownies/)
-[Chocolate Caramel Bars](https://www.majhofftakesawife.com/coffee-house-double-mocha-caramel-bars/) - these were super good. They came out wrong the first time but were still a hit.
+[Caramel Brownies](https://preppykitchen.com/caramel-brownies/)<br>
+[Chocolate Caramel Bars](https://www.majhofftakesawife.com/coffee-house-double-mocha-caramel-bars/) - these were super good. They came out wrong the first time but were still a hit.<br>
 [Carmelitas](https://www.thepioneerwoman.com/food-cookinig/recipes/a61100202/carmelitas-recipe/) - these are good but don't cook as long as it says: they got too crispy. 
 
 **Fudge**
