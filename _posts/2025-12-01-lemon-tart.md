@@ -22,7 +22,7 @@ I used a small offset spatula to spread it around the inside of the baked and co
 
 I used this recipe for the [lemon custard filling](https://natashaskitchen.com/lemon-posset/)<br>
 After the 15 minutes of cooling in this recipe, I strained it into a bowl and after stirring for a few minutes, scooped it into the tart shells and return the tray to the fridge for 2 hours as the recipe said. <br>
-(This batch was enough to fill 19 tarts)<br>)
+(This batch was enough to fill 19 tarts)<br>
 
 Then I made whipped cream:<br>
 1/2 C heavy cream<br>
