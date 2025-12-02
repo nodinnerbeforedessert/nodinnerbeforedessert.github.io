@@ -20,13 +20,13 @@ I used my typical [tart crust](https://preppykitchen.com/chocolate-tart/) adapte
 I used this recipe for [lemon butter cream frosting](https://sallysbakingaddiction.com/lemon-buttercream-frosting/)<br>
 I used a small offset spatula to spread it around the inside of the baked and cooled tart. This is to seal the shell from the custard filling that would otherwise make it soggy. Put the frosted tarts in the fridge to cool so the buttercream frosting can withstand the warm filling. <br>
 
-
 I used this recipe for the [lemon custard filling](https://natashaskitchen.com/lemon-posset/)<br>
 After the 15 minutes of cooling in this recipe, I strained it into a bowl and scooped it into the tart shells and return to the fridge for 2 hours as the recipe said. <br>
+(This batch was enough to fill 19 tarts)<br>)
 
-Then I made whipped cream with:<br>
+Then I made whipped cream:<br>
 1/2 C heavy cream<br>
 ~1/4 C powdered sugar<br>
 ~1/4 tsp vanilla<br>
-
+(this was way more than needed)
 and put little dollups on one side and sprinkled with tiny shavings of lemon zest. <br>
