@@ -5,7 +5,7 @@ author: courtney
 categories: [ Dessert ]
 
 ---
-This is my mom's cinnamon roll recipe (passed down from a family favorite bakery in Ohio to my uncle, to my mom who worked it out to normal ingredients and a method she liked. I need to adust it to be gluten free....<br>
+This is my mom's cinnamon roll recipe (passed down from a family favorite bakery in Ohio to my uncle, to my mom (I cut it down from a batch of like 200 to a batch of 24) then my mom worked it out to accessible ingredients and a method she liked. I need to adust it to be gluten free....<br>
 
 1 C milk<br>
 1 C water<br>
