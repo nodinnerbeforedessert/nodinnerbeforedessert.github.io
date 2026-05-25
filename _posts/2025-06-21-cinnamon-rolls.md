@@ -60,3 +60,11 @@ Roll dough into a rectangle, sprinkle cinnamon sugar mix over dough. Roll up and
 ![alt text](../../assets/images/cinnamonrolls1.jpg "Cinnamon Rolls in the pan")
 ![alt text](../../assets/images/cinnamonrolls2.jpg "Cinnamon Rolls after rising")
 ![alt text](../../assets/images/cinnamonrolls3.jpg "Cinnamon Rolls after baking")
+
+<br>
+Since I don't want them overloaded with frosting, I made a small batch of the maple frosting for this smaller batch of cinnamon rolls: <br>
+200 grams powdered sugar<br>
+4 tsp shortening<br>
+2 tbsp hot water<br>
+1/4 tsp maple flavoring<br>
+dash of salt<br>
